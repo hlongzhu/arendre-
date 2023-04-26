@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content:left;
+    align-items:baseline;
+    min-height: 100vh;
+    background: #121313;
+}
+.ecran
+{
+    position: relative;
+    width: 340px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px ;
+    background: #fff;
+}
